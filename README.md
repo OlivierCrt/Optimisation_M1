@@ -3,7 +3,7 @@
 ## Project: Numerical Calculation of the Inverse Geometric Model (IGM) for a RRR Robot
 
 ### Description
-This project aims to numerically compute the Inverse Geometric Model (IGM) of a RRR robot using nonlinear programming tools. The configuration of the robot is defined by the vector \( q = (q_1, q_2, q_3)^t \), and the tool's position is defined by \( X = (x, y, \theta)^t \).
+This project aims to numerically compute the Inverse Geometric Model (IGM) of a RRR robot.
 
 ### Objectives
 - Implement multiple methods to find solutions for the IGM and compare their performance.
