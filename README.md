@@ -1,6 +1,6 @@
 # README
 
-## Project: Numerical Calculation of the Inverse Geometric Model (IGM) for a RRR Robot
+## Numerical Calculation of the Inverse Geometric Model (IGM) for a RRR Robot
 
 ### Description
 This project aims to numerically compute the Inverse Geometric Model (IGM) of a RRR robot.
