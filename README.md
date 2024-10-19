@@ -62,12 +62,3 @@ To perform a robotic task, it is necessary to position three robots in a worksho
    - Use `scipy.optimize` to solve the placement problem.
    - Display the results, including the positions of the robots and the trajectory of the bus.
 
----
-
-## Installation
-To run this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/IGM-RRR-Robot.git
-   cd IGM-RRR-Robot
